@@ -1,0 +1,27 @@
+{
+  "name": "glassmorphism-calulator",
+  "version": "1.0.0",
+  "description": "Functional Calculator based on glassmorphism UI",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fyvii/Glassmorphism-Calulator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fyvii/Glassmorphism-Calulator/issues"
+  },
+  "homepage": "https://github.com/Fyvii/Glassmorphism-Calulator#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
